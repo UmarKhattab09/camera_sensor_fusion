@@ -9,7 +9,7 @@
   "apply_undistort": false,
   "no_detect": false,
   "publish": true,
-  "broker_ip": "192.168.4.216",
+  "broker_ip": "192.168.2.100",
   "broker_port": 1883,
   "device_id": "CameraPi",
   "client_type": "CAMERA"
